@@ -1,36 +1,27 @@
 {
-    "Shows" : {
-        "Norwegian": [
-            "Neste Sommer",
-            "Aldri Voksen",
-            "Hvite Gutter",
-            "Brille",
-            "Praktisk Info med Jon Almaas",
-            "Huskestue",
-            "Kompani Lauritzen",
-            "113",
-            "Folkeopplysningen"
-        ],
-        "English": [
-            "Young Sheldon",
-            "Ozark",
-            "Chilling Adventures of Sabrina",
-            "The Orville",
+    "Shows" : [
             "Stranger Things",
-            "Miracle Workers",
-            "Kidding",
-            "Killing Eve",
             "Doom Patrol",
-            "The Boys",
-            "The Mandalorian",
-            "Dave",
-            "Devs",
-            "Better Things",
-            "The Grand Tour",
-            "The Goldbergs",
             "Preacher",
-            "Atlanta",
-            "Vice Principals"
+            "American Dad",
+            "Basic Bitch",
+            "Call Me Kat",
+            "Disenchantment",
+            "Euphoria",
+            "Family Guy",
+            "Final Space",
+            "Huskestue",
+            "Legendary",
+            "Miracle Workers",
+            "Paradise PD",
+            "Rick and Morty",
+            "Solar Opposites",
+            "The Boys",
+            "The Goldbergs",
+            "The Grand Tour",
+            "The Mandalorian",
+            "The Orville",
+            "The Simpsons",
+            "Young Sheldon"
         ]
-    }
 }
