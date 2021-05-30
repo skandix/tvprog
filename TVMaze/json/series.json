@@ -1,6 +1,5 @@
 {
-    "Shows" : {
-        "Norwegian": [
+    "Shows" : [
             "Neste Sommer",
             "Aldri Voksen",
             "Hvite Gutter",
@@ -9,9 +8,7 @@
             "Huskestue",
             "Kompani Lauritzen",
             "113",
-            "Folkeopplysningen"
-        ],
-        "English": [
+            "Folkeopplysningen",
             "Young Sheldon",
             "Ozark",
             "Chilling Adventures of Sabrina",
@@ -31,6 +28,5 @@
             "Preacher",
             "Atlanta",
             "Vice Principals"
-        ]
-    }
+    ]
 }
